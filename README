@@ -1,0 +1,7 @@
+Bindings for the EmailYak (https://emailyak.com) API.
+
+Note: I've am not affiliated with EmailYak.  These bindings are not
+complete but instead reflect the subset of the API that I am using in
+my personal projects.
+
+Author: Greg Brockman <gdb@gregbrockman.com>
